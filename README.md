@@ -4,7 +4,7 @@ Este é um aplicativo web simples desenvolvido para selecionar níveis em um jog
 
 ## Demonstração
 
-Você pode visualizar o aplicativo no CodePen (https://codepen.io/MARCOS-RODRIGUES-the-typescripter/pen/wvVXOXb)ou diretamente no GitHub Pages [aqui](https://seunome.github.io/repositorio).
+Você pode visualizar o aplicativo no CodePen (https://codepen.io/MARCOS-RODRIGUES-the-typescripter/pen/wvVXOXb)ou diretamente no GitHub Pages [aqui](https://maxman-source.github.io/repositorio).
 
 ## Funcionalidades
 
