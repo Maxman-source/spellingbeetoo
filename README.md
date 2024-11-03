@@ -40,4 +40,4 @@ Você pode visualizar o aplicativo no CodePen (https://codepen.io/MARCOS-RODRIGU
 - **Como Usar**: Orientações sobre a funcionalidade do aplicativo.
 - **Contribuição** e **Licença**: Informações para quem deseja colaborar. 
 
-Isso vai dar ao seu README uma estrutura clara e informativa.
+
